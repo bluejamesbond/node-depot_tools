@@ -9,12 +9,7 @@
     "install": "node install.js"
   },
   "bin": {
-    "gn": "./tools/gn",
-    "ninja": "./tools/ninja",
-    "ninja-mac": "./tools/ninja-mac",
-    "ninja-linux32": "./tools/ninja-linux32",
-    "ninja-linux64": "./tools/ninja-linux64",
-    "ninja-exe": "./tools/ninja.exe"
+    "depottools": "./run.js"
   },
   "repository": {
     "type": "git",
