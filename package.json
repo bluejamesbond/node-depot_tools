@@ -8,7 +8,7 @@
     "gendocs": "gendocs > README.md",
     "install": "node install.js"
   },
-  "bin: {
+  "bin": {
     "gn": "./tools/gn",
     "ninja": "./tools/ninja",
     "ninja-mac": "./tools/ninja-mac",
